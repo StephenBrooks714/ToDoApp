@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "sass": "^1.77.0",
+    "scss": "^0.2.4"
+  },
+  "name": "todolist",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "sass styles/main.scss styles/main.css -w",
+    "watch": "sass styles/main.scss styles/main.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
